@@ -1,4 +1,5 @@
 {
+  "name": "wdalmut/tsp-genetic-algorithm",
   "require-dev": {
       "phpunit/phpunit": "~5"
   },
